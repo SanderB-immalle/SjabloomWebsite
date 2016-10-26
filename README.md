@@ -1,6 +1,6 @@
 # Sjabloom-Website
 
-Dit is de website van Pizzazaak De Snelle.
+Dit is mijn GIP sjabloom !
 
 # 26 september
 
