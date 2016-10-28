@@ -20,3 +20,8 @@ dus ik ga gewoon de deze gebruiken.
 Deze website kan een goede basis zijn aangezien de website opgedeeld is in 3 verschillende delen (met behulp van grids).
 Ook is deze website gemaakt met vw (view width) ipv. px.
 Deze website gebruikt wel nog float omdat ik flexbox nog niet echt door heb. Ik ben wel van plan dit later aan te passen.
+
+ 
+[Directe link naar grid elementen in index.html](https://github.com/SanderB-immalle/SjabloonWebsite/blob/c41004995e3e16f474aefca83b50f745b7edcedc/index.html#L21-L45)
+
+[Menu in index.html](https://github.com/SanderB-immalle/SjabloonWebsite/blob/c41004995e3e16f474aefca83b50f745b7edcedc/index.html#L12-L20)
