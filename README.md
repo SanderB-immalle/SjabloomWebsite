@@ -1,6 +1,6 @@
-# Sjabloom-Website
+# Sjabloon-Website
 
-Dit is mijn GIP sjabloom !
+Dit is mijn GIP sjabloon !
 
 # 26 september
 
