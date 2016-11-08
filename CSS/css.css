@@ -5,29 +5,22 @@
 	
 	}
 
-   #banner {
-		    position: absolute;
-		    top: 0px;
-		    left: 0px;
-		    right: 0px;
-		    width: 100%;
-		    height: 100vw;
-		    z-index: -1;
-    }
+
+
 
 	h1 {
 
-			text-align: center;
-			margin: 0%;
-			font: 20vw Helvetica;
-			font-family: "Georgia, Serif";
-			color: rgba(255,255,255,1);
+		text-align: center;
+		margin: 0%;
+		font: 20vw Helvetica;
+		font-family: "Georgia, Serif";
+		color: rgba(255,255,255,1);
 
 		}
 	.pure-menu-link{
 		font-size: 2.1vw;
 		color: rgba(255,255,255,1);
-}
+    }
 
 	.pure-menu{
 		font-size:2vw;   
@@ -37,29 +30,19 @@
 		right:35%;
 		
 	
-}
-.pure-menu-item{
-	float:left;
-	left: 32vw;
+    }
+    .pure-menu-item{
+	    float:left;
+	    left: 32vw;
 
-}
+    }
     .pure-menu-selected{
         background:rgba(255,255,255,1);
         color:#2e3a4f;
     }
 		
 
-	.hoofd{
-		background-image: url('Source/pizza.jpg');
-		text-align: center;
-    	background-size: cover;
-
-		height:16vw;
-		width: 100%;
-		margin-bottom: 3vw;
-		display: table;
-	}
-	.hoofd-tekst {
+    .hoofd-tekst {
 
 	    display: table-cell;
         vertical-align: middle;
@@ -68,7 +51,7 @@
         color: white;
         font-weight: 500;
         text-shadow: 0 1px 1px black;	
-	}
+    }
 	#HomeTekst {
 		text-align: center;
 		display: table-cell;
@@ -104,9 +87,10 @@
          margin-left: 40vw;
          margin-top: 3vw;
      }
-     #contact{
+     #p2tekst{
         text-align:center;
 		font-size: 1vw;
 		font-weight: 500;
         text-shadow: 0 1px 1px black;
      }
+
