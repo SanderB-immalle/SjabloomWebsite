@@ -25,3 +25,7 @@ Deze website gebruikt wel nog float omdat ik flexbox nog niet echt door heb. Ik 
 [Directe link naar grid elementen in index.html](https://github.com/SanderB-immalle/SjabloonWebsite/blob/c41004995e3e16f474aefca83b50f745b7edcedc/index.html#L21-L45)
 
 [Menu in index.html](https://github.com/SanderB-immalle/SjabloonWebsite/blob/c41004995e3e16f474aefca83b50f745b7edcedc/index.html#L12-L20)
+
+# 10 November
+
+Ik heb jekyll getest en het werkt. Ik moet wel mijn CSS in de html in _Layouts_ zetten. Ik heb hier nog geen andere oplossing voor gevonden. Ook heb ik in de Backup-branch een blog-functie toegevoegd mbv Flexboxen.

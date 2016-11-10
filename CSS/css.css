@@ -94,3 +94,35 @@
         text-shadow: 0 1px 1px black;
      }
 
+	/* flexbox*/
+	.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-flex-flow: row wrap;
+  justify-content: center;
+  align-content: space-between;
+  width: 100%;
+}
+
+.flex-item {
+  background:#2e3a4f;
+  padding: 0.1%;
+  width: 18vmax;
+  height: 18vmax;
+  margin: 5%;
+
+  line-height: 12vmax;
+  color: white;
+  font-weight: bold;
+  font-size: 5vmax;
+  text-align: center;
+}
+	
